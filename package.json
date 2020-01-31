@@ -18,15 +18,15 @@
   },
   "homepage": "https://github.com/fuse-box/fuse-box-electron-seed#readme",
   "devDependencies": {
-    "fuse-box": "4.0.0-alpha.67",
-    "ts-node": "^8.3.0",
-    "typescript": "^3.5.3"
+    "fuse-box": "4.0.0-alpha.279",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
   },
   "dependencies": {
-    "electron": "^6.0.0",
-    "electron-log": "^3.0.7",
+    "electron": "^7.1.11",
+    "electron-log": "^4.0.4",
     "electron-settings": "^3.2.0",
-    "electron-updater": "^4.1.2",
+    "electron-updater": "^4.2.0",
     "tslib": "^1.10.0"
   }
 }
